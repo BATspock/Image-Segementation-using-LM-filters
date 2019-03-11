@@ -1,4 +1,8 @@
 # Image-Segementation-using-LM-filters
+
+Further improved implementation available [here](https://github.com/BATspock/Textons-colors)
+
+
 Segments image using LM filters and K Means
 
 The script takes as input path to image, number of clusters for k-Means and number of iterations as input
